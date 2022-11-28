@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohd-fahad-254ba620a) 
 
-- 🌱 I’m currently learning MERN satck<br>
+- 🌱 I’m currently learning MERN stack<br>
 - 📫 How to reach me fahadmohammad312@gmail.com<br> 
 - ⚡ Fun fact Human beings are strong because we can change ourselves
 
