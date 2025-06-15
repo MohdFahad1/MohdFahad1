@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Mohd Fahad
-  Final Year Student
 
 # 💫 About Me:
-- 🌱 I’m currently learning Back End
+- 🌱 I’m currently learning App Development
 - 📫 How to reach me fahadmohammad312@gmail.com
 - ⚡ Fun fact Human beings are strong because we can change ourselves
 
